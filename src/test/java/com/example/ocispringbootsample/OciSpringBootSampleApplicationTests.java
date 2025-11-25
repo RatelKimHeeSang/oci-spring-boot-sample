@@ -1,10 +1,10 @@
-package com.example.ec2springbootsample;
+package com.example.ocispringbootsample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Ec2SpringBootSampleApplicationTests {
+class OciSpringBootSampleApplicationTests {
 
   @Test
   void contextLoads() {
